@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Rancho&effect=outline);
+
+
+body{
+  background-image: url(https://s3.us-east-2.amazonaws.com/pomodoroclock/fabrizio-verrecchia-180315-unsplash.jpg); 
+  background-size: 100%;
+  background-attachment: fixed;
+  padding-top: 50px;
+  font-family:"outline";
+}
+
+h1{
+  color: goldenrod;
+  font-size: 5em;
+  font-weight: bold;
+  
+  
+}
+
+h2{
+  display:inline;
+  
+}
+
+h3{
+  display:inline;
+  color: goldenrod;
+  font-weight: bold;
+  
+    
+}
+
+h4{
+  display:inline;
+  padding-top: 1px;
+  color: goldenrod;
+  
+  
+}
+
+footer{
+  color: goldenrod;
+  font-size: 1.5em;
+  padding: 500px 0px 0px 500px;
+  
+}
+
+#start {
+  margin:10px;
+}
+
+.btn-primary {
+  background-color: #331a00;
+}
